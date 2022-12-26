@@ -1,1 +1,5 @@
+<<<<<<< Feature-Branch-1
 Check 25 Cjkjklk
+=======
+Check
+>>>>>>> revert-1-Feature-Branch-1
